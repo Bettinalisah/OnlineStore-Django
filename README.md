@@ -83,3 +83,6 @@
 - Admins can manage items, users, and messages through the Django admin panel.
 
 ## File Structure
+
+![Website Screenshot](images/IMG_7550.jpg)
+
