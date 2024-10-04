@@ -38,5 +38,5 @@
 
 ## File Structure
 
-![Website Screenshot](./IMG_7550.jpg)
+![Website Screenshot](IMG_7846.jpeg)
 
